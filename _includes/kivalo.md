@@ -1,0 +1,1 @@
+Kiváló, tisztelendő, kiváló. Az Áldott sok tekintetben tisztázta a tanítást, mintha helyrefordította volna, ami fejjel lefele volt, felfedte volna ami rejtve volt, az elveszettnek utat mutatott volna, mintha lámpát tartott volna a sötétben, hogy akinek van szeme, az lásson.
