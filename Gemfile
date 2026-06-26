@@ -1,13 +1,3 @@
-# --- START OF RUBY 4.0 COMPATIBILITY PATCH ---
-# Liquid 4.0.3 calls .tainted? which Ruby 4.0 deleted. 
-# This safely maps the missing method so it stops crashing.
-class Object
-  def tainted?
-    false
-  end
-end
-# --- END OF RUBY 4.0 COMPATIBILITY PATCH ---
-
 source "https://rubygems.org"
 
 # Hello! This is where you manage which Jekyll version is used to run.
