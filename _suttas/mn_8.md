@@ -73,7 +73,7 @@ Mármost, Csunda, így dolgozzatok az elkoptatáson.
 
 24. „Mások lehetnek mérgesek, mi márpedig nem leszünk azok.” – ekként gyakorlandó az elkoptatás.
 
-25. „Mások lehetnek sértődöttek, mi márpedig nem leszünk azok.” – ekként gyakorlandó az elkoptatás.
+25. „Mások lehetnek haragtartóak, mi márpedig nem leszünk azok.” – ekként gyakorlandó az elkoptatás.
 
 26. „Mások bemocskolhatnak, mi márpedig nem mocskolunk be.” – ekként gyakorlandó az elkoptatás.
 
@@ -83,7 +83,7 @@ Mármost, Csunda, így dolgozzatok az elkoptatáson.
 
 29. „Mások lehetnek fukarok, mi márpedig nem leszünk azok.” – ekként gyakorlandó az elkoptatás.
 
-30. „Mások lehetnek dörzsöltek, mi márpedig nem leszünk azok.” – ekként gyakorlandó az elkoptatás.
+30. „Mások lehetnek csalárdak, mi márpedig nem leszünk azok.” – ekként gyakorlandó az elkoptatás.
 
 31. „Mások lehetnek álnokok, mi márpedig nem leszünk azok.” – ekként gyakorlandó az elkoptatás.
 
@@ -95,7 +95,7 @@ Mármost, Csunda, így dolgozzatok az elkoptatáson.
 
 35. „Másoknak lehetnek rossz barátaik, nekünk márpedig jó barátaink lesznek.” – ekként gyakorlandó az elkoptatás.
 
-36. „Másoknak lehetnek megrészegültek, mi márpedig józanok leszünk.” – ekként gyakorlandó az elkoptatás.
+36. „Másoknak lehetnek hanyagok, mi márpedig gondosak leszünk.” – ekként gyakorlandó az elkoptatás.
 
 37. „Mások lehetnek bizalmatlanok, mi márpedig bizakodóak leszünk.” – ekként gyakorlandó az elkoptatás.
 
