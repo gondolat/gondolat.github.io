@@ -7,7 +7,7 @@ nikaya: "Suttanipāta"
 Ez a teendője annak, ki jártas a jóban,\
 hogy végigérjen a béke útján:\
 képes és egyenes, gerinces, és\
-feddhető legyen, szelíd, nem gőgös,
+fogékony legyen, szelíd, nem gőgös,
 
 elégedett, könnyen eltartható,\
 kevés a dolga és szerényen élő,\
