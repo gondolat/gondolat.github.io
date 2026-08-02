@@ -28,8 +28,8 @@ E tanban rejlik a ragyogó ékkő.\
 Ezen igazság által legyen jólét!
 
 Amit a legfőbb, az Éber magasztalt:\
-amit tiszta, közvetlen higgadtságnak hívnak:\
-nem lelhető ehhez mérhető higgadtság.\
+amit tiszta, közvetlen higgadtságnak hívnak,\
+nem lelhető ehhez fogható.\
 E tanban rejlik a ragyogó ékkő.\
 Ezen igazság által legyen jólét!
 
@@ -71,14 +71,14 @@ E közösségben rejlik a ragyogó ékkő.\
 Ezen igazság által legyen jólét!
 
 Bármi gonoszat is cselekszik,\
-testben, szóban vagy gondolatban,\
+testben, szóban vagy szívben,\
 azt képtelen elrejteni,\
 ki a nézetet elérte.\
 E közösségben rejlik a ragyogó ékkő.\
 Ezen igazság által legyen jólét!
 
 Mint a sűrű erdő, ha virágba borul,\
-nyár elején, az első hónapban:\
+nyár elején, az első hónapokban:\
 hasonlóan tanította e kitűnő tant,\
 mely a legfőbb jóléthez, az oltalomhoz vezet.\
 Ez Éberben rejlik a ragyogó ékkő.\
@@ -98,15 +98,15 @@ Ezen igazság által legyen jólét!
 
 Ki élők itt összegyűltek,\
 földiek vagy égiek!\
-Az Ekként-Mentnek istenek és emberek hódolnak.\
-Meghajlunk az Éber előtt. Legyen jólét.
+Az Ekként-Mentnek hódol isten és ember.\
+Meghajlunk az Éber előtt. Legyen jólét!
 
 Ki élők itt összegyűltek,\
 földiek vagy égiek!\
-Az Ekként-Mentnek istenek és emberek hódolnak.\
-Meghajlunk a tan előtt. Legyen jólét.
+Az Ekként-Mentnek hódol isten és ember.\
+Meghajlunk a tan előtt. Legyen jólét!
 
 Ki élők itt összegyűltek,\
 földiek vagy égiek!\
-Az Ekként-Mentnek istenek és emberek hódolnak.\
-Meghajlunk a közösség előtt. Legyen jólét.
+Az Ekként-Mentnek hódol isten és ember.\
+Meghajlunk a közösség előtt. Legyen jólét!
