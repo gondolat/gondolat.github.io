@@ -17,33 +17,6 @@ permalink: /glossary/
 |pamāda|részegség, hanyagság|Ld.: appamāda|
 |dhamma|dolog, jelenség, gondolat, tanítás, tan, tulajdonság, igazság, természet|Bár viszonylag széles jelentéssel bíró szó, belátható, hogy hogyan vezethetőek vissza egymásba a különböző árnyalatok.|
 |saññā|felfogás|Angol _perception_. Ld.: sañjānāti|
-|sañjānāti|felfog|Szó szerint: „összetud”. Angolul _perceive_-nek fordított általában. Magyarban a „felfog” szó nem tökéletes rá, de némely kísérletezés után ezt tűnt legkevésbé rossznak. Érdemes összevetni a vijānāti szóval, amely itt „észlel”-ként szerepel. Végeredményben magunknak kell közvetlenül látni a szó _jelentését_, hogy mire vonatkozik, az szó csak irányt mutat. Talán segítség lehet az alábbi:
-
-Sañjānātīti kho, bhikkhave, tasmā ‘saññā’ti vuccati.
-Kiñca sañjānāti?
-Nīlampi sañjānāti, pītakampi sañjānāti, lohitakampi sañjānāti, odātampi sañjānāti.
-
-„Felfog”, szerzetesek, ezért „felfogásnak” mondott. És mit fog fel? Kéket fog fel, sárgát is, pirosat is, fehéret is.
-[SN 22.79]
-V.ö. vijānāti.|
+|sañjānāti|felfog|Szó szerint: „összetud”. Angolul _perceive_-nek fordított általában. Magyarban a „felfog” szó nem tökéletes rá, de némely kísérletezés után ezt tűnt legkevésbé rossznak. Érdemes összevetni a vijānāti szóval, amely itt „észlel”-ként szerepel. Végeredményben magunknak kell közvetlenül látni a szó _jelentését_, hogy mire vonatkozik, az szó csak irányt mutat. Talán segítség lehet az alábbi:<br><br>Sañjānātīti kho, bhikkhave, tasmā ‘saññā’ti vuccati.<br>Kiñca sañjānāti?<br>Nīlampi sañjānāti, pītakampi sañjānāti, lohitakampi sañjānāti, odātampi sañjānāti.<br><br>„Felfog”, szerzetesek, ezért „felfogásnak” mondott. És mit fog fel? Kéket fog fel, sárgát is, pirosat is, fehéret is.<br>[SN 22.79]<br><br>V.ö. vijānāti.|
 |viññāṇa|tudat|Angol _consciousness_. Ld.: vijānāti|
-|vijānāti |észlel|Szó szerint: „széttud”, „kitud”, „eltud”. Angolul _cognize_-nak fordított általában. Fontos felismerni, hogy ez nagyon tág fogalom, bármilyen látvány, hang, szag, íz, érintés vagy jelenség _jelenlétét_ jelöli. A viññāṇa szót  „tudat”-ként fordítva csábító itt a „tudatában van” kifejezés, de ez félrevezető lenne, ugyanis magyarban a „tudatában van” szűkebb jelentéssel bír. Például lehet jelen egy bizonyos érzés, aminek nem vagyunk tudatában, tehát az észlelés jóval tágabb dolog. Az alábbiak segíthetnek a fogalom megértésében, és a felfogáshoz való viszony átlátásában:
-
-Vijānātīti kho, bhikkhave, tasmā ‘viññāṇan’ti vuccati.
-Kiñca vijānāti?
-Ambilampi vijānāti, tittakampi vijānāti, kaṭukampi vijānāti, madhurampi vijānāti, khārikampi vijānāti, akhārikampi vijānāti, loṇikampi vijānāti, aloṇikampi vijānāti.
-
-„Észlel”, szerzetesek, ezért „tudatnak” („észlelésnek”) mondott. És mit észlel? Savanyút észlel, keserűt is, fanyart, édeset, csípőset, enyhét, sósat, sótlant észlel.
-[SN 22.79]
-
-Yā cāvuso, vedanā yā ca saññā yañca viññāṇaṁ—
-ime dhammā saṁsaṭṭhā, no visaṁsaṭṭhā.
-Na ca labbhā imesaṁ dhammānaṁ vinibbhujitvā vinibbhujitvā nānākaraṇaṁ paññāpetuṁ.
-Yaṁ hāvuso, vedeti taṁ sañjānāti, yaṁ sañjānāti taṁ vijānāti.
-
-Tapasztalat, felfogás, tudat— ezek a dolgok, barátom, összefüggnek, nem különállóak.
-Nem lehetséges ezen dolgokat alaposan elemezvén közöttük különbséget tenni.
-Ugyanis, barátom, amit tapasztalunk az felfogjuk, amit pedig felfogunk azt észleljük.
-[MN 43]
-
-V.ö. sañjānāti|
+|vijānāti |észlel|Szó szerint: „széttud”, „kitud”, „eltud”. Angolul _cognize_-nak fordított általában. Fontos felismerni, hogy ez nagyon tág fogalom, bármilyen látvány, hang, szag, íz, érintés vagy jelenség _jelenlétét_ jelöli. A viññāṇa szót  „tudat”-ként fordítva csábító itt a „tudatában van” kifejezés, de ez félrevezető lenne, ugyanis magyarban a „tudatában van” szűkebb jelentéssel bír. Például lehet jelen egy bizonyos érzés, aminek nem vagyunk tudatában, tehát az észlelés jóval tágabb dolog. Az alábbiak segíthetnek a fogalom megértésében, és a felfogáshoz való viszony átlátásában:<br><br>Vijānātīti kho, bhikkhave, tasmā ‘viññāṇan’ti vuccati.<br>Kiñca vijānāti?<br>Ambilampi vijānāti, tittakampi vijānāti, kaṭukampi vijānāti, madhurampi vijānāti, khārikampi vijānāti, akhārikampi vijānāti, loṇikampi vijānāti, aloṇikampi vijānāti.<br><br>„Észlel”, szerzetesek, ezért „tudatnak” („észlelésnek”) mondott. És mit észlel? Savanyút észlel, keserűt is, fanyart, édeset, csípőset, enyhét, sósat, sótlant észlel.<br>[SN 22.79]<br><br>Yā cāvuso, vedanā yā ca saññā yañca viññāṇaṁ—<br>ime dhammā saṁsaṭṭhā, no visaṁsaṭṭhā.<br>Na ca labbhā imesaṁ dhammānaṁ vinibbhujitvā vinibbhujitvā nānākaraṇaṁ paññāpetuṁ.<br>Yaṁ hāvuso, vedeti taṁ sañjānāti, yaṁ sañjānāti taṁ vijānāti.<br><br>Tapasztalat, felfogás, tudat— ezek a dolgok, barátom, összefüggnek, nem különállóak.<br>Nem lehetséges ezen dolgokat alaposan elemezvén közöttük különbséget tenni.<br>Ugyanis, barátom, amit tapasztalunk az felfogjuk, amit pedig felfogunk azt észleljük.<br>[MN 43]<br><br>V.ö. sañjānāti|
