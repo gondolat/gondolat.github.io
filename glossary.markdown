@@ -6,7 +6,7 @@ permalink: /glossary/
 
 |pāḷi|magyar|megjegyzés|
 |---|---|---|
-|appamāda|józanság, gondosság|Szó szerint: józanság. Átvitt értelemben gondosság, óvatosság, hitelesség, becsületesség, tisztesség, őszinteség.|
+|appamāda|józanság, gondosság|<a id="appamada"></a>Szó szerint: józanság. Átvitt értelemben gondosság, óvatosság, hitelesség, becsületesség, tisztesség, őszinteség.|
 |brahmā|Isten|„Én vagyok az Isten, a Nagy Isten, a Győztes, a Legyőzetlen, a Mindentudó, a Hatalommal Bíró, az Úr, a Készítő, a Teremtő, a Legfőbb, a Szerző, a Hatalmas, a létezők és leendők Atyja.”|
 |brāhmaṇa|pap|Az ókori indiai papi osztály megnevezése. A Buddha gyakran visszaigényelte ezt a szót: az igaz pap az, aki felszámolt a mohósággal, gyűlölettel, zavarodottsággal.|
 |deva|isten|Szó szerint: ragyogó|
