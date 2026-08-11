@@ -15,7 +15,7 @@ nyugodt és értelmes, igénye kevés,\
 a támogatók iránt nem kapzsi.
 
 Ne tegyen olyan apró dolgot se,\
-mit más bölcsek kérdőre vonnának.\
+mit más bölcsek megróhatnának.\
 Csak boldogan, biztonságban,\
 minden élő legyen maga boldog!
 
@@ -25,7 +25,7 @@ hosszú, nagy, közepes, rövid,\
 parányi vagy hatalmas,
 
 látható vagy láthatatlan,\
-éljen közel vagy távol,\
+távol éljen vagy közel,\
 létező vagy leendő,\
 minden élő legyen maga boldog!
 

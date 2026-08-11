@@ -4,20 +4,15 @@ sutta_number: "MN 1"
 sutta_key: "2N 001"
 nikaya: "Majjhima Nikāya"
 ---
+Így hallottam. 
 
-Így hallottam. Egy alkalommal a Dicső Ukkaṭṭhában élt, az Áldott Erdőben, egy tekintélyes szálafa tövében. Ott így szólt a szerzetesekhez: 
+Egy alkalommal a Dicső Ukkaṭṭhában élt, az Áldott Erdőben, egy tekintélyes szálafa tövében. Ott így szólt a szerzetesekhez: 
 
 – Szerzetesek!
 
 – Tisztelendő! – válaszoltak a szerzetesek.
 
-– Minden jelenség eredetének a magyarázatáról[^1] foglak tanítani, szerzetesek. Hallgassátok és jól figyeljetek, beszélni fogok.
-
-  
-
-[^1]: Költőibb értelmezésben: a minden jelenséget átölelő gyökérzetről.
-
-  
+– Minden jelenség eredetének a magyarázatáról foglak tanítani, szerzetesek. Hallgassátok és jól figyeljetek, beszélni fogok.
 
 – Igen, tisztelendő. – egyeztek bele a szerzetesek.
 

@@ -4,7 +4,9 @@ sutta_number: "MN 8"
 sutta_key: "2N 008"
 nikaya: "Majjhima Nikāya"
 ---
-Így hallottam. Egy alkalommal a Sikeres Szávatthiban élt, a Jéta erdőben, Anáthapiṇḍika parkjában.
+Így hallottam. 
+
+Egy alkalommal a Sikeres Szávatthiban élt, a Dzséta erdőben, Anáthapiṇḍika parkjában.
 
 Akkor a tisztelendő Mahácsunda estetájt, miután előjött az elvonultságból, odament a Sikereshez, őt üdvözölvén leült az egyik oldalra, majd így szólt hozzá:
 

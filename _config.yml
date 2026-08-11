@@ -23,7 +23,6 @@ title: "Szutták magyarul"
 description: "Pāli szuttafordítások magyarul"
 email: asangavihari@gmail.com
 
-theme: minima
 collections:
   suttas:
     output: true
