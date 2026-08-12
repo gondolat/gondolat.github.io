@@ -17,7 +17,7 @@ A Dicső így szólt:
 
 – Az meríti ki a szivárgásokat, mondom én, szerzetesek, aki tud és lát, nem az, aki tudatlan és nem lát. Mit tud és mit lát? A körültekintő figyelmet és a körültekintetlen figyelmet. Körültekintetlenül figyelve, szerzetesek, új szivárgások is jelennek meg, és a régiek is növekednek. Körültekintően figyelve új szivárgások sem jelennek meg, és a régiek is elhagyatnak.
 
-Vannak, szerzetesek, olyan szivárgások, amelyek látás által hagyandóak el, vannak, amelyek fékentartás által, vannak, amelyek használat által, vannak, amelyek elviselés által, vannak, amelyek elkerülés által, vannak, amelyek eloszlatás által, és vannak, amelyek művelés által hagyandóak el.
+Vannak, szerzetesek, olyan szivárgások, amelyek látás által hagyandóak el, vannak, amelyek fékentartás által, vannak, amelyek használat által, vannak, amelyek elviselés által, vannak, amelyek elkerülés által, vannak, amelyek eloszlatás által, és vannak, amelyek fejlesztés által hagyandóak el.
 ## Látás által elhagyandó szivárgások
 És mely szivárgások hagyandóak el látás által?
 ### (Okulatlan közönséges ember)
@@ -94,24 +94,24 @@ Ezeket hívják, szerzetesek, fékentartás által elhagyandó szivárgásoknak.
 
 Mármost, szerzetesek, egy szerzetes körültekintően mérlegelve használja a ruhát:
 
-„csak a hideg ellen, a meleg ellen, böglyök, szúnyogok, a szél, a tűző nap, és csúszómászók érintése ellen, csak a szemérmetes részek eltakarására.”
+csak a hideg ellen, a meleg ellen, böglyök, szúnyogok, a szél, a tűző nap, és a csúszómászók érintése ellen, csak a szemérmetes részek eltakarására.
 
 Körültekintően mérlegelve használja az alamizsnát:
 
-„nem kedvtelésből, nem élvezetből, nem díszítésre, nem ékítésre,
+nem kedvtelésből, nem élvezetből, nem díszítésre, nem ékítésre,
 csak ezen test fenntartására és továbbvitelére,
 a kár elkerülésére, a szentélet támogatására.
-Ekként vetek véget a régi érzésnek, és nem hozok létre új érzést.
+„Ekként vetek véget a régi érzésnek, és nem hozok létre új érzést.
 Lesz útravalóm, feddhetetlenül és kényelmesen élek.”
 
 Körültekintően mérlegelve használja a szállást:
 
-„csak a hideg ellen, a meleg ellen, böglyök, szúnyogok, a szél, a tűző nap, és csúszómászók érintése ellen, 
-csak az időjárás viszontagságainak elkerülésére, és az elvonultság kedvéért.”
+csak a hideg ellen, a meleg ellen, böglyök, szúnyogok, a szél, a tűző nap, és csúszómászók érintése ellen, 
+csak az időjárás viszontagságainak elkerülésére, és az elvonultság kedvéért.
 
 Körültekintően mérlegelve használja a betegeknek szükséges gyógyszert:
 
-„csak a jelenlévő nyomasztó érzések ellen, az állapot javítására.”
+csak a jelenlévő nyomasztó érzések ellen, az állapot javítására.
 
 Hiszen, szerzetesek, ha nem használná, akkor zaklatott és lázas szivárgások árasztanák el, míg ha használja ezeket, úgy nem keletkeznek ilyen szivárgások.
 
@@ -135,10 +135,37 @@ Hiszen, szerzetesek, ha nem kerülné el, akkor zaklatott és lázas szivárgás
 
 Ezeket hívják, szerzetesek, elkerülés által elhagyandó szivárgásoknak.
 ## Eloszlatás által elhagyandó szivárgások
+És mely szivárgások hagyandóak el eloszlatás által?
 
-## Művelés által elhagyandó szivárgások
+Mármost, szerzetesek, egy szerzetes körültekintően mérlegelve a felmerült érzéki gondolatot[^1] nem fogadja el, felhagy vele, eloszlatja azt, véget vet neki, megsemmisíti; a felmerült rosszindulatú gondolatot, a felmerült ártalmas gondolatot, a bármilyen felmerülő gonosz, káros jelenségeket[^2] nem fogadja el, felhagy velük, eloszlatja őket, véget vet nekik, megsemmisíti őket.
 
-  
-  
+[^1:] _Vitakka_, tehát gondolat a szűkebb értelmében.
+[^2:] _Dhamma_, tehát gondolat a legtágabb értelemben.
 
+Hiszen, szerzetesek, ha nem oszlatná el, akkor zaklatott és lázas szivárgások árasztanák el, míg ha eloszlatja ezeket, úgy nem keletkeznek ilyen szivárgások.
 
+Ezeket hívják, szerzetesek, eloszlatás által elhagyandó szivárgásoknak.
+## Fejlesztés által elhagyandó szivárgások
+És mely szivárgások hagyandóak el fejlesztés által?
+
+Mármost, szerzetesek, egy szerzetes körültekintően mérlegelve fejleszti az emlékezet éberségtényezőt, ami az elzárkózáson, szenvtelenségen, megszűnésen alapul, és a lemondásban tetőzik.
+
+Körültekintően mérlegelve fejleszti a jelenségelemzés éberségtényezőt, az erély éberségtényezőt, az öröm éberségtényezőt, a nyugalom éberségtényezőt, a higgadtság éberségtényezőt, és az egyensúly éberségtényezőt, ami az elzárkózáson, szenvtelenségen, megszűnésen alapul, és a lemondásban tetőzik.
+
+Hiszen, szerzetesek, ha nem fejlesztené, akkor zaklatott és lázas szivárgások árasztanák el, míg ha fejleszti ezeket, úgy nem keletkeznek ilyen szivárgások.
+
+Ezeket hívják, szerzetesek, fejlesztés által elhagyandó szivárgásoknak.
+
+Amelyik szerzetes pedig 
+* a látás által elhagyandó szivárgásokat elhagyta látás által, 
+* a fékentartás által elhagyandó szivárgásokat elhagyta fékentartás által,  
+* a használat által elhagyandó szivárgásokat elhagyta használat által, 
+* az elviselés által elhagyandó szivárgásokat elhagyta elviselés által, 
+* az elkerülés által elhagyandó szivárgásokat elhagyta elkerülés által, 
+* az eloszlatás által elhagyandó szivárgásokat elhagyta eloszlatás által, 
+* a fejlesztés által elhagyandó szivárgásokat elhagyta fejlesztés által, 
+arról mondják: „ez a szerzetes az összes szivárgást megfékezve él, elvágta a sóvárgást, eltépte a béklyókat, és a gőgöt áthatolva véget vetett a szenvedésnek”.
+
+Ezt mondta a Dicső.
+
+A szerzetesek lelkesen örültek a Dicső beszédének.
