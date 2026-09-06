@@ -4,10 +4,8 @@ sutta_number: "MN 2"
 sutta_key: "2N 002"
 nikaya: "Majjhima Nikāya"
 ---
-{% capture passage %}
+
 {% include savatthi.md %}
-{% endcapture %}
-{{ passage | markdownify }}
 
 – Az összes szivárgás megfékezésének a magyarázatáról foglak tanítani, szerzetesek. Hallgassátok és jól figyeljetek, beszélni fogok.
 

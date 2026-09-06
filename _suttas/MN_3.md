@@ -1,7 +1,7 @@
 ---
 title: "Örökösök a tanban"
 sutta_number: "MN 3"
-sutta_key: "2N 002"
+sutta_key: "2N 003"
 nikaya: "Majjhima Nikāya"
 ---
 
