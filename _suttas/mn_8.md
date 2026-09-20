@@ -1,14 +1,14 @@
 ---
-title: "Elkoptatás szutta"
+title: "Elkoptatás"
 sutta_number: "MN 8"
 sutta_key: "2N 008"
 nikaya: "Majjhima Nikāya"
 ---
 Így hallottam. 
 
-Egy alkalommal a Sikeres Szávatthiban élt, a Dzséta erdőben, Anáthapiṇḍika parkjában.
+Egy alkalommal a Dicső Szávatthiban élt, a Dzséta erdőben, Anáthapiṇḍika parkjában.
 
-Akkor a tisztelendő Mahácsunda estetájt, miután előjött az elvonultságból, odament a Sikereshez, őt üdvözölvén leült az egyik oldalra, majd így szólt hozzá:
+Akkor a tisztelendő Mahácsunda estetájt, miután előjött az elvonultságból, odament a Dicsőhöz, őt üdvözölvén leült az egyik oldalra, majd így szólt hozzá:
 
 – Tisztelendő, számos különböző nézet merül fel a világban: elméletek önmagunkról és elméletek a világról. Csak az alapokra figyelve, tisztelendő, felhagy-e egy szerzetes ezekkel a nézetekkel, elengedi-e ezeket a nézeteket?
 
@@ -161,7 +161,7 @@ Hasonlóan, Csunda,
 Tehát, Csunda, tanítottam az elkoptatásról, tanítottam a szívbeli felidézésről, tanítottam a kerülőről, tanítottam a felfelé tartásról, tanítottam a teljes kioltásról.  
 Amit, Csunda, egy jótékony, törődő tanár szánalomból megtehet a tanítványaiért, azt megtettem értetek.  
 Itt vannak, Csunda, a fák tövei, itt vannak az üres lakások, fontoljátok meg, Csunda, ne legyetek hanyagok, nehogy később megbánjátok – ez a mi utasításunk.  
-Így szólt a Sikeres. A tisztelendő Mahácsunda lelkesen örült a Sikeres beszédének.
+Így szólt a Dicső. A tisztelendő Mahácsunda lelkesen örült a Dicső beszédének.
 
 Negyvennégy pont került említésre,  
 öt részben tanítva.  

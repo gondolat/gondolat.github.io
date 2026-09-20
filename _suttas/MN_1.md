@@ -118,9 +118,9 @@ A mindent mindenként fogja fel…
 
 Az oltalmat oltalomként fogja fel. A oltalmat oltalomként felfogván elképzeli a oltalmat, elképzeli, hogy az oltalomban, hogy az oltalomból, hogy „az oltalom az enyém”, örömét leli az oltalomban. Mi okból? Mert nem értette meg teljesen, mondom.
 
-## (A képzendő)
+## (A törekvő)
 
-Amelyik képzendő szerzetes viszont, bár még nem érte el a célt, az iga alóli felülmúlhatatlan menedék felé törekedve él, ő viszont a földet földként érti. A földet földként értvén ne képzelje el a földet, ne képzelje el, hogy a földben, hogy a földből, hogy „a föld az enyém”, ne lelje örömét a földben. Mi okból? Hogy teljesen megértse, mondom.
+Amelyik törekvő szerzetes viszont, bár még nem érte el a célt, az iga alóli felülmúlhatatlan menedék felé törekedve él, ő viszont a földet földként érti. A földet földként értvén ne képzelje el a földet, ne képzelje el, hogy a földben, hogy a földből, hogy „a föld az enyém”, ne lelje örömét a földben. Mi okból? Hogy teljesen megértse, mondom.
 
   
 

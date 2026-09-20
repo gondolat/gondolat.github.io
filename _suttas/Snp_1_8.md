@@ -1,5 +1,5 @@
 ---
-title: "Barátságból teendő szutta"
+title: "Barátságból teendő"
 sutta_number: "Snp 1.8"
 sutta_key: "5N05 01.08"
 nikaya: "Suttanipāta"

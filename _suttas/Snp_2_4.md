@@ -1,5 +1,5 @@
 ---
-title: "A nagy áldás szutta"
+title: "A nagy áldás"
 sutta_number: "Snp 2.4"
 sutta_key: "5N05 02.04"
 nikaya: "Suttanipāta"
@@ -24,8 +24,10 @@ ez a legfőbb áldás.
 
 Műveltség és mesterség,\
 jól képzett fegyelem,\
-ékesszóló beszéd –\
+ékesszóló beszéd[^1] –\
 ez a legfőbb áldás.
+
+[^1]: Lásd SN 8.5.
 
 A szülők gondozása,\
 törődni gyerekkel és társsal,\

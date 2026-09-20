@@ -1,5 +1,5 @@
 ---
-title: "Ékkő szutta"
+title: "Ékkő"
 sutta_number: "Snp 2.1"
 sutta_key: "5N05 02.01"
 nikaya: "Suttanipāta"
