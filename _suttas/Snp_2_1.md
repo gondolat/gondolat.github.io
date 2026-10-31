@@ -92,7 +92,7 @@ Ezen igazság által legyen jólét!
 A régi elkopott, az újnak nincsen forrása\
 a vágytalan szívből a jövőbeli létben.\
 A felőrölt magokból nem nő vissza a vágy,\
-kialszanak a bölcsek, akárcsak e lámpás.\
+kialszanak a szilárdak, akárcsak e lámpás.\
 E közösségben rejlik a ragyogó ékkő.\
 Ezen igazság által legyen jólét!
 
