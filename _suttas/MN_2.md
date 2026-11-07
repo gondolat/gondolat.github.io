@@ -137,8 +137,8 @@ Ezeket hívják, szerzetesek, elkerülés által elhagyandó szivárgásoknak.
 
 Mármost, szerzetesek, egy szerzetes körültekintően mérlegelve a felmerült érzéki gondolatot[^1] nem fogadja el, felhagy vele, eloszlatja azt, véget vet neki, megsemmisíti; a felmerült rosszindulatú gondolatot, a felmerült ártalmas gondolatot, a bármilyen felmerülő gonosz, káros jelenségeket[^2] nem fogadja el, felhagy velük, eloszlatja őket, véget vet nekik, megsemmisíti őket.
 
-[^1:] _Vitakka_, tehát gondolat a szűkebb értelmében.
-[^2:] _Dhamma_, tehát gondolat a legtágabb értelemben.
+[^1]: _Vitakka_, tehát gondolat a szűkebb értelmében.
+[^2]: _Dhamma_, tehát gondolat a legtágabb értelemben.
 
 Hiszen, szerzetesek, ha nem oszlatná el, akkor zaklatott és lázas szivárgások árasztanák el, míg ha eloszlatja ezeket, úgy nem keletkeznek ilyen szivárgások.
 
