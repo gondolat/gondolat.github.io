@@ -162,6 +162,7 @@ Amelyik szerzetes pedig
 * az elkerülés által elhagyandó szivárgásokat elhagyta elkerülés által, 
 * az eloszlatás által elhagyandó szivárgásokat elhagyta eloszlatás által, 
 * a fejlesztés által elhagyandó szivárgásokat elhagyta fejlesztés által, 
+
 arról mondják: „ez a szerzetes az összes szivárgást megfékezve él, elvágta a sóvárgást, eltépte a béklyókat, és a gőgöt áthatolva véget vetett a szenvedésnek”.
 
 Ezt mondta a Dicső.
