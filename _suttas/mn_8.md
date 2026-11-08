@@ -67,7 +67,7 @@ Mármost, Csunda, így dolgozzatok az elkoptatáson.
 
 20. „Másoknak lehet téves a szabadságuk, nekünk márpedig helyes lesz a szabadságunk.” – ekként gyakorlandó az elkoptatás.
 
-21. „Másokat emészthet lustság és lomhaság, mi márpedig lustaságtól és lomhaságtól mentesek leszünk.” – ekként gyakorlandó az elkoptatás.
+21. „Másokat emészthet lustaság és lomhaság, mi márpedig lustaságtól és lomhaságtól mentesek leszünk.” – ekként gyakorlandó az elkoptatás.
 
 22. „Mások lehetnek nyugtalanok, mi márpedig nyugodtak leszünk.” – ekként gyakorlandó az elkoptatás.
 
@@ -97,7 +97,7 @@ Mármost, Csunda, így dolgozzatok az elkoptatáson.
 
 35. „Másoknak lehetnek rossz barátaik, nekünk márpedig jó barátaink lesznek.” – ekként gyakorlandó az elkoptatás.
 
-36. „Másoknak lehetnek hanyagok, mi márpedig gondosak leszünk.” – ekként gyakorlandó az elkoptatás.
+36. „Mások lehetnek hanyagok, mi márpedig gondosak leszünk.” – ekként gyakorlandó az elkoptatás.
 
 37. „Mások lehetnek bizalmatlanok, mi márpedig bizakodóak leszünk.” – ekként gyakorlandó az elkoptatás.
 

@@ -27,7 +27,7 @@ Bár ez utóbbi szerzetes az éhséget, gyengeséget eloszlatván töltené el a
 
 Tehát, szerzetesek, a tanban legyetek örököseim, ne az anyagi dolgokban. Az irántatok való szánalomból gondolkodom: „Hogyan lehetnének a tanítványaim a tanban örököseim, nem az anyagi dolgokban?”
 
-Így szólt a Dicső, majd ültéből felállván a elment lakhelyére.
+Így szólt a Dicső, majd ültéből felállván elment a lakhelyére.
 
 Nem sokkal a Dicső távozta után a tisztelendő Száriputta szólította meg a szerzeteseket:
 

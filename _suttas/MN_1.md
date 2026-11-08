@@ -68,7 +68,7 @@ Az égben gyümölcsözőeket égben gyümölcsözőekként fogja fel…
 
   
 
-A Uralkodót Uralkodóként fogja fel…
+Az Uralkodót Uralkodóként fogja fel…
 
   
 
@@ -116,7 +116,7 @@ A mindent mindenként fogja fel…
 
   
 
-Az oltalmat oltalomként fogja fel. A oltalmat oltalomként felfogván elképzeli a oltalmat, elképzeli, hogy az oltalomban, hogy az oltalomból, hogy „az oltalom az enyém”, örömét leli az oltalomban. Mi okból? Mert nem értette meg teljesen, mondom.
+Az oltalmat oltalomként fogja fel. Az oltalmat oltalomként felfogván elképzeli az oltalmat, elképzeli, hogy az oltalomban, hogy az oltalomból, hogy „az oltalom az enyém”, örömét leli az oltalomban. Mi okból? Mert nem értette meg teljesen, mondom.
 
 ## (A törekvő)
 
@@ -164,7 +164,7 @@ Az égben gyümölcsözőeket égben gyümölcsözőekként érti…
 
   
 
-A Uralkodót Uralkodóként érti…
+Az Uralkodót Uralkodóként érti…
 
   
 
@@ -260,7 +260,7 @@ Az égben gyümölcsözőeket égben gyümölcsözőekként érti…
 
   
 
-A Uralkodót Uralkodóként érti…
+Az Uralkodót Uralkodóként érti…
 
   
 
@@ -398,7 +398,7 @@ Az égben gyümölcsözőeket égben gyümölcsözőekként érti…
 
   
 
-A Uralkodót Uralkodóként érti…
+Az Uralkodót Uralkodóként érti…
 
   
 

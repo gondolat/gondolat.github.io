@@ -105,13 +105,13 @@ Ahogy a szív lehiggadt, megtisztult, megmosatott, makulátlan lett, szennyeződ
 
 Így visszaemlékeztem számos különböző korábbi életre, azaz: egy életre, két életre, három életre, négy életre, öt életre, tíz életre, húsz életre, harminc életre, negyven életre, ötven életre, száz életre, ezer életre, százezer életre, számos szűkülő korszakra, számos táguló korszakra, számos szűkülő és táguló korszakra: „Emitt így hívtak, ilyen családból származtam, így néztem ki, ilyen volt az ételem, ilyenek a boldog és fájdalmas tapasztalataim, ilyen volt az élettartamom, onnan elhullván amott tűntem fel. Ott pedig így hívtak…, onnan elhullván itt jelentem meg.” Így emlékeztem vissza számos különböző korábbi életre, jellegében és részleteiben.
 
-Ez volt az első tudás, amit elértem, az éjszaka első szakaszában. Megsemmisült a tudatlanság, és tudás tűnt fel, megsemmisült a sötétség, és világosság tűnt fel, gondolkodahogy szorgalmasan, buzgón, eltökélten éltem.
+Ez volt az első tudás, amit elértem, az éjszaka első szakaszában. Megsemmisült a tudatlanság, és tudás tűnt fel, megsemmisült a sötétség, és világosság tűnt fel, ahogy szorgalmasan, buzgón, eltökélten éltem.
 
 Ahogy a szív lehiggadt, megtisztult, megmosatott, makulátlan lett, szennyeződéstől mentes, képlékeny, megmunkálható és biztos, rendületlenné vált – az élők elhullásának és megjelenésének a tudása felé irányítottam azt.
 
 Így az isteni szemmel, ami megtisztult és meghaladja az emberit, láttam az élőket elhullani és megjelenni: alját és kiválót, szépet és csúnyát, jól jártat és rosszul jártat. Felismertem, hogy hogyan mennek a maguk útján az élők a tetteik szerint: „Bizony ezek a kedves élők, akik testi, szóbeli, gondolatbeli rossz viselkedéssel felruházottak, akik a nemeseket kifogásolták, akiknek nézeteik tévesek, és e téves nézetek mentén cselekedtek, ők a test feloszlásával, a halál után hanyatlásba, rossz célba, bukásba, a pokolba értek. Viszont ezek a kedves élők, akik testi, szóbeli, gondolatbeli jó viselkedéssel felruházottak, akik nem kifogásolták a nemeseket, akiknek nézeteik helyesek, és e helyes nézetek mentén cselekedtek, ők a test feloszlásával, a halál után jó célba, a mennyországba értek.” Így az isteni szemmel, ami megtisztult és meghaladja az emberit, láttam az élőket elhullani és megjelenni: alját és kiválót, szépet és csúnyát, jól jártat és rosszul jártat. Felismertem, hogy hogyan mennek a maguk útján az élők a tetteik szerint.
 
-Ez volt a második tudás, amit elértem, az éjszaka középső szakaszában. Megsemmisült a tudatlanság, és tudás tűnt fel, megsemmisült a sötétség, és világosság tűnt fel, gondolkodahogy szorgalmasan, buzgón, eltökélten éltem.
+Ez volt a második tudás, amit elértem, az éjszaka középső szakaszában. Megsemmisült a tudatlanság, és tudás tűnt fel, megsemmisült a sötétség, és világosság tűnt fel, ahogy szorgalmasan, buzgón, eltökélten éltem.
 
 Ahogy a szív lehiggadt, megtisztult, megmosatott, makulátlan lett, szennyeződéstől mentes, képlékeny, megmunkálható és biztos, rendületlenné vált – a szivárgások kimerítésének a tudása felé irányítottam azt.
 
@@ -119,7 +119,7 @@ Megértettem közvetlenül, ahogy az valójában van: „Ez a szenvedés.” Meg
 
 Ahogy így megértettem, így átláttam ezt, megszabadult a szívem az érzékiségi szivárgástól, a létszivárgástól, a mellőzésszivárgástól. Megszabadultával tudtam: „megszabadult”. Közvetlenül megértettem: „Kimerült a születés, a szentélet leéltetett, a teendő megtétetett, nincs már ebből több.”
 
-Ez volt a harmadik tudás, amit elértem, az éjszaka utolsó szakaszában. Megsemmisült a tudatlanság, és tudás tűnt fel, megsemmisült a sötétség, és világosság tűnt fel, gondolkodahogy szorgalmasan, buzgón, eltökélten éltem.
+Ez volt a harmadik tudás, amit elértem, az éjszaka utolsó szakaszában. Megsemmisült a tudatlanság, és tudás tűnt fel, megsemmisült a sötétség, és világosság tűnt fel, ahogy szorgalmasan, buzgón, eltökélten éltem.
 
 Lehet ám, pap, hogy ezt gondolod: „A bölcselő Gótama még ma sem mentes a szenvedélytől, a gyűlölettől és a zavarodottságtól, ezért száll meg félreeső helyeken az erdőkben és rengetegekben.” De ne értsd félre ezt. Két okot látok arra, hogy az erdőkben és rengetegekben félreeső helyeken szálljak meg: hogy én magam így jelenleg láthatóan boldogan élek, és hogy törődöm az elkövetkező nemzedékekkel.
 
