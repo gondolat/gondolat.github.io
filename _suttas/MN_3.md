@@ -7,8 +7,6 @@ nikaya: "Majjhima Nikāya"
 
 {% include savatthi.md %}
 
-A Dicső így szólt:
-
 – Szerzetesek, a tanban legyetek örököseim, ne az anyagi dolgokban. Az irántatok való szánalomból gondolkodom: „Hogyan lehetnének a tanítványaim a tanban örököseim, nem az anyagi dolgokban?”
 
 Hogyha, szerzetesek, az anyagi dolgokban lennétek örököseim, nem a tanban, ezáltal kifogásolhatóak lennétek: „A Tanár tanítványai az anyagi dolgok örököseiként élnek, nem a tan örököseiként.” És engem is ekként kifogásolhatnának.
@@ -27,7 +25,7 @@ Bár ez utóbbi szerzetes az éhséget, gyengeséget eloszlatván töltené el a
 
 Tehát, szerzetesek, a tanban legyetek örököseim, ne az anyagi dolgokban. Az irántatok való szánalomból gondolkodom: „Hogyan lehetnének a tanítványaim a tanban örököseim, nem az anyagi dolgokban?”
 
-Így szólt a Dicső, majd ültéből felállván elment a lakhelyére.
+Ezt mondta a Dicső, majd ültéből felállván elment a lakhelyére.
 
 Nem sokkal a Dicső távozta után a tisztelendő Száriputta szólította meg a szerzeteseket:
 
@@ -35,7 +33,7 @@ Nem sokkal a Dicső távozta után a tisztelendő Száriputta szólította meg a
 
 – Barátunk! – válaszoltak a szerzetesek.
 
-A tisztelendő Száriputta így szólt:
+A tisztelendő Száriputta ezt mondta:
 
 – Mily módon nem képzik az elzárkózottságban magukat az elzárkózottan élő Tanár tanítványai? És mily módon képzik magukat az elzárkózottságban?
 
@@ -101,4 +99,4 @@ Mármost, barátaim, a hiúság rossz, és a megrészegültség is rossz. A hiú
 
 Ez bizony, barátaim, a középső járás, mely látást és tudást biztosít, mely nyugalomhoz, felsőbb értelemhez, éberséghez, oltalomhoz vezet.
 
-Így szólt a tisztelendő Száriputta. A szerzetesek lelkesen örültek a beszédének.
+Ezt mondta a tisztelendő Száriputta. A szerzetesek lelkesen örültek a beszédének.

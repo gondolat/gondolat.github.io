@@ -6,11 +6,13 @@ nikaya: "Majjhima Nikāya"
 ---
 Így hallottam. 
 
-Egy alkalommal a Dicső Ukkaṭṭhában élt, az Áldott Erdőben, egy tekintélyes szálafa tövében. Ott így szólt a szerzetesekhez: 
+Egy alkalommal a Dicső Ukkaṭṭhában élt, az Áldott Erdőben, egy tekintélyes szálafa tövében. Ott a Dicső megszólította a szerzeteseket:
 
 – Szerzetesek!
 
 – Tisztelendő! – válaszoltak a szerzetesek.
+
+A Dicső ezt mondta:
 
 – Minden jelenség eredetének a magyarázatáról foglak tanítani, szerzetesek. Hallgassátok és jól figyeljetek, beszélni fogok.
 
@@ -454,4 +456,4 @@ Tehát mondom, szerzetesek: az Ekként-Ment a sóvárgás teljes kimerültével,
 
   
 
-Így szólt a Dicső. A szerzetesek nem örültek a Dicső beszédének.
+Ezt mondta a Dicső. A szerzetesek nem örültek a Dicső beszédének.

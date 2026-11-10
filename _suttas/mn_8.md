@@ -161,7 +161,7 @@ Hasonlóan, Csunda,
 Tehát, Csunda, tanítottam az elkoptatásról, tanítottam a szívbeli felidézésről, tanítottam a kerülőről, tanítottam a felfelé tartásról, tanítottam a teljes kioltásról.  
 Amit, Csunda, egy jótékony, törődő tanár szánalomból megtehet a tanítványaiért, azt megtettem értetek.  
 Itt vannak, Csunda, a fák tövei, itt vannak az üres lakások, fontoljátok meg, Csunda, ne legyetek hanyagok, nehogy később megbánjátok – ez a mi utasításunk.  
-Így szólt a Dicső. A tisztelendő Mahácsunda lelkesen örült a Dicső beszédének.
+Ezt mondta a Dicső. A tisztelendő Mahácsunda lelkesen örült a Dicső beszédének.
 
 Negyvennégy pont került említésre,  
 öt részben tanítva.  

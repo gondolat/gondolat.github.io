@@ -4,7 +4,6 @@ sutta_number: "MN 4"
 sutta_key: "2N 004"
 nikaya: "Majjhima Nikāya"
 ---
-
 Így hallottam.
 
 Egy alkalommal a Dicső Szávatthiban élt, a Dzséta Erdőben, Anáthapiṇḍika ligetében.

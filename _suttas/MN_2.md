@@ -165,6 +165,4 @@ Amelyik szerzetes pedig
 
 arról mondják: „ez a szerzetes az összes szivárgást megfékezve él, elvágta a sóvárgást, eltépte a béklyókat, és a gőgöt áthatolva véget vetett a szenvedésnek”.
 
-Ezt mondta a Dicső.
-
-A szerzetesek lelkesen örültek a Dicső beszédének.
+Ezt mondta a Dicső. A szerzetesek lelkesen örültek a Dicső beszédének.
