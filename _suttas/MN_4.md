@@ -90,7 +90,7 @@ Vannak viszont egyes bölcselők és papok, akik éjjel lévén, azt nappalként
 
 Én viszont, pap, éjjel lévén, azt éjjelként fogom fel, nappal lévén pedig azt nappalként fogom fel. Ha pedig valakiről helyesen azt mondhatni: „Megjelent a világban egy lény, aki nem kitett a zavarodottságnak, ki sokak jólétére és boldogságára szolgál, a világ iránti törődésből, emberek és istenek hasznára, jólétére, boldogságára válik.” – ezt csakis rólam mondhatni helyesen.
 
-Feltámadt bizony, pap, bennem az erély, nem voltam rest, megalapoztam az emlékezetemet, nem voltam feledékeny, nyugodt volt a testem, nem izgatott, a szívem pedig higgadt volt, egységes.
+Feltámadt bizony, pap, bennem az erély, nem voltam rest, megalapoztam az emlékezetemet, nem voltam feledékeny, nyugodt volt a testem, nem izgatott, a szívem pedig higgadt volt, emelkedett.
 
 Így hát az érzékiségtől elzárkózottan, a káros dolgoktól elzárkózottan, gondolkodva, elmélkedve, az elzárkózottságból adódó kedv és boldogság kíséretében az első megfontolásba lépve éltem.
 

@@ -69,7 +69,7 @@ Mármost, Csunda, így dolgozzatok az elkoptatáson.
 
 21. „Másokat emészthet lustaság és lomhaság, mi márpedig lustaságtól és lomhaságtól mentesek leszünk.” – ekként gyakorlandó az elkoptatás.
 
-22. „Mások lehetnek nyugtalanok, mi márpedig nyugodtak leszünk.” – ekként gyakorlandó az elkoptatás.
+22. „Mások lehetnek feszültek, mi márpedig nyugodtak leszünk.” – ekként gyakorlandó az elkoptatás.
 
 23. „Mások lehetnek kétkedőek, mi márpedig felülkerekedünk a kétségen.” – ekként gyakorlandó az elkoptatás.
 
