@@ -5,7 +5,7 @@ sutta_key: "5N05 02.04"
 nikaya: "Suttanipāta"
 ---
 
-Így hallottam. Egy alkalommal a Dicső Szávatthiban lakott, a Dzséta erdőben, Anáthapiṇḍika ligetében. Késő éjjel egy bizonyos pompás szépségű istenség az egész Dzséta erdőt beragyogva odament a Dicsőhöz, üdvözölte őt, majd az egyik oldalra állt, és versben szólt hozzá.
+Így hallottam. Egy alkalommal a Dicső Szávatthiban lakott, a Dzséta Erdőben, Anáthapiṇḍika ligetében. Késő éjjel egy bizonyos pompás szépségű istenség az egész Dzséta erdőt beragyogva odament a Dicsőhöz, üdvözölte őt, majd az egyik oldalra állt, és versben szólt hozzá.
 
 Sok istenség és ember is\
 az áldásokon töpreng,\

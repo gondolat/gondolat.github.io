@@ -6,7 +6,7 @@ nikaya: "Majjhima Nikāya"
 ---
 Így hallottam. 
 
-Egy alkalommal a Dicső Szávatthiban élt, a Dzséta erdőben, Anáthapiṇḍika parkjában.
+Egy alkalommal a Dicső Szávatthiban élt, a Dzséta Erdőben, Anáthapiṇḍika ligetében.
 
 Akkor a tisztelendő Mahácsunda estetájt, miután előjött az elvonultságból, odament a Dicsőhöz, őt üdvözölvén leült az egyik oldalra, majd így szólt hozzá:
 

@@ -47,12 +47,12 @@ A tisztelendő Száriputta így szólt:
 
 – Mily módon nem képzik az elzárkózottságban magukat az elzárkózottan élő Tanár tanítványai?
 
-Mármost, barátaim, az elzárkózottan élő Tanár tanítványai nem képzik magukat az elzárkózottságban: nem hagynak fel azokkal a dolgokkal, amelyek felhagyásáról szólt a Tanár, nagy lábon élnek, hanyagok, elöljárók a hanyatlásban, kibújnak az elzárkózottság alól.
+Mármost, barátaim, az elzárkózottan élő Tanár tanítványai nem képzik magukat az elzárkózottságban: nem hagynak fel azokkal a dolgokkal, amelyek felhagyásáról szólt a Tanár, nagy lábon élnek, tunyák, elöljárók a hanyatlásban, kibújnak az elzárkózottság alól.
 
 Ez esetben, barátaim, az idős szerzetesek három dolog alapján kifogásolandóak:
 „Az elzárkózottan élő Tanár tanítványai nem képzik magukat az elzárkózottságban.” – ez az első dolog, ami alapján kifogásolandóak az idős szerzetesek.
 „Nem hagynak fel azokkal a dolgokkal, amelyek felhagyásáról szólt a Tanár.” – ez a második dolog, ami alapján kifogásolandóak az idős szerzetesek.
-„Nagy lábon élnek, hanyagok, elöljárók a hanyatlásban, kibújnak az elzárkózottság alól.” – ez a harmadik dolog, ami alapján kifogásolandóak az idős szerzetesek.
+„Nagy lábon élnek, tunyák, elöljárók a hanyatlásban, kibújnak az elzárkózottság alól.” – ez a harmadik dolog, ami alapján kifogásolandóak az idős szerzetesek.
 
 Ez esetben, barátaim, a közepes szerzetesek három dolog alapján kifogásolandóak…
 
@@ -62,12 +62,12 @@ Bizony, barátaim, ily módon nem képzik az elzárkózottságban magukat az elz
 
 És mily módon képzik az elzárkózottságban magukat az elzárkózottan élő Tanár tanítványai?
 
-Mármost, barátaim, az elzárkózottan élő Tanár tanítványai az elzárkózottságban képzik magukat: felhagynak azokkal a dolgokkal, amelyek felhagyásáról szólt a Tanár, nem élnek nagy lábon, nem hanyagok, kibújnak a hanyatlás alól, elöljárók az elzárkózottságban.
+Mármost, barátaim, az elzárkózottan élő Tanár tanítványai az elzárkózottságban képzik magukat: felhagynak azokkal a dolgokkal, amelyek felhagyásáról szólt a Tanár, nem élnek nagy lábon, nem tunyák, kibújnak a hanyatlás alól, elöljárók az elzárkózottságban.
 
 Ez esetben, barátaim, az idős szerzetesek három dolog alapján dicsérendőek:
 „Az elzárkózottan élő Tanár tanítványai az elzárkózottságban képzik magukat.” – ez az első dolog, ami alapján dicsérendőek az idős szerzetesek.
 „Felhagynak azokkal a dolgokkal, amelyek felhagyásáról szólt a Tanár.” – ez a második dolog, ami alapján dicsérendőek az idős szerzetesek.
-„Nem élnek nagy lábon, nem hanyagok, kibújnak a hanyatlás alól, elöljárók az elzárkózottságban.” – ez a harmadik dolog, ami alapján dicsérendőek az idős szerzetesek.
+„Nem élnek nagy lábon, nem tunyák, kibújnak a hanyatlás alól, elöljárók az elzárkózottságban.” – ez a harmadik dolog, ami alapján dicsérendőek az idős szerzetesek.
 
 Ez esetben, barátaim, a közepes szerzetesek három dolog alapján dicsérendőek…
 
